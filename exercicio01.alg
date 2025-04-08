@@ -5,8 +5,7 @@ var
 
 inicio
 
-   escreval("Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu
-   perímetro")
+//Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro
    escreval("Digite o tamanho da base do retângulo: ")
    leia(base)
    escreval("Digite a altura do retângulo: ")
