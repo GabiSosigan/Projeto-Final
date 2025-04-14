@@ -1,4 +1,4 @@
-Algoritmo "permutacao"
+Algoritmo "exercicio19"
 // Calcula a raiz de uma equação de primeiro grau
 
 Var

@@ -1,4 +1,4 @@
-Algoritmo "permutacao"
+Algoritmo "exercicio18"
 // Permuta o valor de duas variáveis inteiras
 
 Var
