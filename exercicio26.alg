@@ -1,5 +1,5 @@
 Algoritmo "exercicio26"
-// Lê 3 valores e soma dos 2 maiores
+// Lê 3 valores e soma os 2 maiores
 
 Var
    // Seção de Declarações das variáveis
