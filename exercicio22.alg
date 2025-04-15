@@ -1,4 +1,4 @@
-Algoritmo "exercicio21"
+Algoritmo "exercicio22"
 // Lê um número e exibe seu módulo
 
 Var
